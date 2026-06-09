@@ -4,5 +4,6 @@ public class RPGCharacterMath {
         int swordDamage = 5;
         int strengthBonus = 10;
 
-        System.out.println ("Oбщий урон за удар" + " " + (swordDamage+strengthBonus));
+        System.out.println("Oбщий урон за удар" + " " + (swordDamage + strengthBonus));
     }
+}
